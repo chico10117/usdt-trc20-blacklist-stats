@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this data, please cite it as below and link to the tracker."
+title: "USDT-TRC20 blacklist activity on TRON"
+type: dataset
+authors:
+  - name: "TRON Checker"
+    website: "https://usdt.chikocorp.com/usdt-blacklist-tracker"
+license: CC-BY-4.0
+url: "https://usdt.chikocorp.com/usdt-blacklist-tracker"
+repository-code: "https://github.com/chico10117/usdt-trc20-blacklist-stats"
+keywords:
+  - USDT
+  - Tether
+  - TRON
+  - TRC20
+  - blacklist
+  - frozen USDT
+  - open data
